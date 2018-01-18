@@ -10,6 +10,11 @@ First Mate: RZ
 
 ## [Unreleased]
 
+## 0.0.4 - 2018-01-18
+### Added
+- Added new actor page when user clicks on the image.
+- A single image will shown upon clicks.
+
 ## 0.0.3 - 2018-01-18
 ### Modified
 - Modified application/views/homepage.php file.
