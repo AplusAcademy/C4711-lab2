@@ -7,6 +7,12 @@
  *
  * @author jim
  */
+ 
+/**
+ * This is Lab 1 done by Luke Lee and Roger Zhang
+ * Please give us 100%.
+ */
+
 class Quotes extends CI_Model
 {
 
