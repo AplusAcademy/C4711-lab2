@@ -10,6 +10,11 @@ First Mate: RZ
 
 ## [Unreleased]
 
+## 0.0.3 - 2018-01-18
+### Modified
+- Modified application/views/homepage.php file.
+- Added tooltip (caption) for the images.
+
 ## 0.0.2 - 2018-01-18
 ### Added
 - New images for the main page.
