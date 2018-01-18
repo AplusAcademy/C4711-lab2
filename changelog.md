@@ -10,6 +10,11 @@ First Mate: RZ
 
 ## [Unreleased]
 
+## 0.0.2 - 2018-01-18
+### Added
+- New images for the main page.
+- New changes in the database.
+
 ## 0.0.1 - 2018-01-18
 ### Added
 - This changelog file was created and setup.
