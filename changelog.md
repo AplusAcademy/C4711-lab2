@@ -10,6 +10,11 @@ First Mate: RZ
 
 ## [Unreleased]
 
+## 0.0.5 - 2018-01-18
+### Modified
+- Modified the actor.php file for additional contents including actor name, role, and quote.
+- Actor name font is larger than role and quote.
+
 ## 0.0.4 - 2018-01-18
 ### Added
 - Added new actor page when user clicks on the image.
